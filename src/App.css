@@ -1,0 +1,35 @@
+li a {
+  color: white;       
+  text-decoration: none; 
+}
+
+li a:hover {
+  color: green;       
+  text-decoration: underline; 
+}
+
+
+.fotoPerfil {
+  width: 200px;       
+  height: 200px;      
+  border-radius: 20%; 
+  object-fit: cover;  
+  border: 1px solid black; 
+}
+
+body{
+  text-align: center;
+  color: rgb(247, 246, 246);
+  background-color: rgb(185, 140, 185);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+  color: black;
+}
+
+h2{
+  color: black;
+}

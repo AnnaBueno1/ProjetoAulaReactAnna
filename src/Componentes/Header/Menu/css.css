@@ -1,0 +1,21 @@
+nav{
+
+}
+ul{
+list-style: none;
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 35px;
+}
+li{
+    border: 1px solid silver;
+    border-radius: 9cqmin;
+    padding: 10px;
+    font-size: 1em;
+    text-align: center;
+}
+li a:hover {
+    color: blue;
+    border-bottom: 3px solid blueviolet;
+}

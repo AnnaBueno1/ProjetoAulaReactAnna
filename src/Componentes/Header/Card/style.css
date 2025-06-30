@@ -1,0 +1,9 @@
+img{
+    width: 200px;
+    border-radius: 20%;
+    border: 5px solid #000;
+}
+
+.card{
+ display: flex;   
+}
